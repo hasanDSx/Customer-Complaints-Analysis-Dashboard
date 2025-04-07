@@ -1,7 +1,5 @@
 # Customer-Complaints-Analysis-Dashboard
 
-An interactive dashboard analyzing customer complaints across key metrics like total complaints, response performance, product categories, submission channels, and geographic distribution
-
 📌 Key Metrics:
 
 Total Complaints: 62.52K
