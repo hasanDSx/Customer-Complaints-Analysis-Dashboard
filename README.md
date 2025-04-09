@@ -62,3 +62,7 @@ Here are the key DAX measures & Parameters implemented:
 5. Timely Response Rate – Calculates the percentage of complaints where the company responded on time ("Yes"), helping assess responsiveness.
 
 6. Total Complaints – Simply counts the total number of complaints in the dataset.
+
+
+
+https://github.com/user-attachments/assets/1d3d7e00-3849-4c66-8705-b6237c3530b8
