@@ -19,11 +19,12 @@ DIVIDE(TimelyResponses, TotalComplaints, 0)
 
 
 📌 Ranking:
-4. Max Complaitns Values over time:
-Year Max Point = 
-    IF(MAXX(ALLSELECTED('Dataset'[Date received].[Year]), [Total Complaints]) = [Total Complaints],
-        MAXX(ALLSELECTED('Dataset'[Date received].[Year]),
-            [Total Complaints]), BLANK())
+4. MaxMin Point = 
+    VAR _MAX = MAXX(ALLSELECTED('Dataset'[Date received].[Year]),[Total Complaints])
+    VAR _MIN = MINX(ALLSELECTED('Dataset'[Date received].[Year]),[Total Complaints])
+    VAR _TotalValue = [Total Complaints]
+        RETURN
+            IF(_TotalValue = _MAX || _TotalValue = _MIN, _TotalValue,BLANK())
 
 
 
