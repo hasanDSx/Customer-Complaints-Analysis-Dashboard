@@ -7,7 +7,7 @@ Closed Response Rate: 97.61%
 
 Timely Response Rate: 93.77%
 
-Sales Performance Highlights:
+Performance Highlights:
 --
 
 🔹 Complaint Trends Over the Years
