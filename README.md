@@ -1,12 +1,12 @@
-# Customer-Complaints-Analysis-Dashboard
-
-📌 Key Metrics:
+Key Metrics:
+--
 
 Total Complaints: 62.52K
 
 Closed Response Rate: 97.61%
 
 Timely Response Rate: 93.77%
+
 
 🔹 Complaint Trends Over the Years
 
