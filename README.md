@@ -1,11 +1,11 @@
 Key Metrics:
 --
 
-Total Complaints: 62.52K
+📌 Total Complaints: 62.52K
 
-Closed Response Rate: 97.61%
+📌 Closed Response Rate: 97.61%
 
-Timely Response Rate: 93.77%
+📌 Timely Response Rate: 93.77%
 
 Performance Highlights:
 --
