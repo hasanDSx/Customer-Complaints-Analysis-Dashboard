@@ -16,15 +16,15 @@ Complaints peaked in 2022 (12.9K) before dropping to 9.2K in 2023.
 
 🔹 Complaints by Product
 
-· Highest: Checking/Savings Accounts – 24,814 complaints, making it the most problematic category. 
+  - Highest: Checking/Savings Accounts – 24,814 complaints, making it the most problematic category. 
 
-· Lowest: Vehicle Loans/Leases – 633 complaints, indicating minimal issues in this category.
+  - Lowest: Vehicle Loans/Leases – 633 complaints, indicating minimal issues in this category.
 
 🔹 Complaints by Sub-Product
 
-· Highest: Checking account – 20,775 complaints, making it the most problematic category. 
+  - Highest: Checking account – 20,775 complaints, making it the most problematic category. 
 
-· Lowest: Domestic (US) money transfer – 1773 complaints, indicating minimal issues in this category.
+  - Lowest: Domestic (US) money transfer – 1773 complaints, indicating minimal issues in this category.
  
 🔹 Complaints by State
 
