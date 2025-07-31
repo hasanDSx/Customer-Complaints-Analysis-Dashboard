@@ -12,7 +12,7 @@ Performance Highlights:
 
 🔹 Complaint Trends Over the Years
 
-Complaints peaked in 2022 (12.9K) before dropping to 9.2K in 2023.
+  - Complaints peaked in 2022 (12.9K) before dropping to 9.2K in 2023.
 
 🔹 Complaints by Product
 
@@ -46,6 +46,6 @@ Complaints peaked in 2022 (12.9K) before dropping to 9.2K in 2023.
 
 🔹 Complaints by Sub-Issue
 
-. Highest: No specific sub-issue (10.9K complaints) – a significant portion of complaints lack categorization, which may indicate reporting inconsistencies.
+  - Highest: No specific sub-issue (10.9K complaints) – a significant portion of complaints lack categorization, which may indicate reporting inconsistencies.
 
-. Lowest: Transaction was not authorized (2.0K complaints) – fewer issues reported in unauthorized transactions compared to other concerns.
+  - Lowest: Transaction was not authorized (2.0K complaints) – fewer issues reported in unauthorized transactions compared to other concerns.
