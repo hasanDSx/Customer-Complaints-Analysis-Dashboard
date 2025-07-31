@@ -16,33 +16,33 @@ Performance Highlights:
 
 🔹 Complaints by Product
 
-  - Highest: Checking/Savings Accounts – 24,814 complaints, making it the most problematic category. 
+•	- Highest: Checking/Savings Accounts – 24,814 complaints, making it the most problematic category. 
 
-  - Lowest: Vehicle Loans/Leases – 633 complaints, indicating minimal issues in this category.
+•	- Lowest: Vehicle Loans/Leases – 633 complaints, indicating minimal issues in this category.
 
 🔹 Complaints by Sub-Product
 
-  - Highest: Checking account – 20,775 complaints, making it the most problematic category. 
+•	- Highest: Checking account – 20,775 complaints, making it the most problematic category. 
 
-  - Lowest: Domestic (US) money transfer – 1773 complaints, indicating minimal issues in this category.
+•	- Lowest: Domestic (US) money transfer – 1773 complaints, indicating minimal issues in this category.
  
 🔹 Complaints by State
 
-  - Highest: California (CA) – 13.71K complaints, suggesting significant service challenges.
+•	- Highest: California (CA) – 13.71K complaints, suggesting significant service challenges.
 
-  - Lowest: Virginia (VA) – 1.73K complaints, indicating fewer reported issues.
+•	- Lowest: Virginia (VA) – 1.73K complaints, indicating fewer reported issues.
 
 🔹 Submission Channels
 
-  - Highest: Web – 45,513 complaints, confirming the dominance of digital platforms.
+•	- Highest: Web – 45,513 complaints, confirming the dominance of digital platforms.
 
-  - Lowest: Email – Only 2 complaints, suggesting it’s rarely used for complaints.
+•	- Lowest: Email – Only 2 complaints, suggesting it’s rarely used for complaints.
 
 🔹 Complaints by Issue
 
-  - Highest: Managing an Account – 15.1K complaints, making it the top customer concern.
+•	- Highest: Managing an Account – 15.1K complaints, making it the top customer concern.
 
-  - Lowest: Problems with a Lender – 2.5K complaints, the least reported issue.
+•	- Lowest: Problems with a Lender – 2.5K complaints, the least reported issue.
 
 🔹 Complaints by Sub-Issue
 
