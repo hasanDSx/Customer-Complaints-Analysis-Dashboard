@@ -49,18 +49,3 @@ Complaints peaked in 2022 (12.9K) before dropping to 9.2K in 2023.
 . Highest: No specific sub-issue (10.9K complaints) – a significant portion of complaints lack categorization, which may indicate reporting inconsistencies.
 
 . Lowest: Transaction was not authorized (2.0K complaints) – fewer issues reported in unauthorized transactions compared to other concerns.
-
-
-Here are the key DAX measures & Parameters implemented:
-
-1. Issues Dynamic Title – This title dynamically updates based on the selected Issue and Sub-Issue parameter filter.
-
-2. Product Dynamic Title – Similar to the issue title, this measure dynamically adjusts based on the selected Product and sub-product parameter filter.
-
-3. Year Max Point Complaints – This measure identifies the year with the highest number of complaints, helping to highlight critical trends and guide strategic decision-making.
-
-4. Closed Response Rate – Measures the percentage of complaints where the company response included "Closed", providing insight into resolution effectiveness.
-
-5. Timely Response Rate – Calculates the percentage of complaints where the company responded on time ("Yes"), helping assess responsiveness.
-
-6. Total Complaints – Simply counts the total number of complaints in the dataset.
